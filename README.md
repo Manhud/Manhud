@@ -38,3 +38,4 @@ Hi, I'm **Juan Rozo**, a passionate Frontend Developer 🚀 from Colombia. Besid
   <img src="https://github.com/dartilesm/dartilesm/blob/master/assets/Handshake.gif" height="33px" />
 </div>
 
+

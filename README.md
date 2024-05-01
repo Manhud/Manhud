@@ -31,6 +31,6 @@ Hi, I'm **Juan Rozo**, a passionate Frontend Developer 🚀 from Colombia. Besid
 <div align="center">
   <b>Ask me about anything, I am happy to help!</b>
   <br>
-  <img src="https://github.com/dartilesm/dartilesm/blob/master/assets/Handshake.gif" height="33px" />
+  <img src="https://github.com/Manhud/Manhud/blob/main/Handshake%20(1).gif" height="33px" />
 </div>
 

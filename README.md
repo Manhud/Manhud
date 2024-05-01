@@ -1,13 +1,5 @@
 ### Hi there 👋
 
-<!-- GitHub Stats Card -->
-<div align="center">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=manhud&show_icons=true&theme=github_dark" media="(prefers-color-scheme: dark)">
-    <source srcset="https://github-readme-stats.vercel.app/api?username=manhud&show_icons=true&theme=default" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
-    <img src="https://github-readme-stats.vercel.app/api?username=manhud&show_icons=true&theme=github_dark" alt="Estadísticas de GitHub de Juan">
-  </picture>
-</div>
 
 <!-- Most Used Languages Card -->
 <div align="center">
